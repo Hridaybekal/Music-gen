@@ -11,8 +11,7 @@ Frontend Interface: A web-based interface allows users to interact with the mode
 Technology Stack
 Python: Used for data processing, model training, and generation.
 pretty_midi: A Python library for handling MIDI data, converting between MIDI files and note sequences.
-HTML/CSS: Used to create a user-friendly frontend interface.
-JavaScript: Adds interactivity to the web interface, allowing users to customize the music generation process.
+
 
 Dependencies
 Python 3.7+
