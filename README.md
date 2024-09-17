@@ -13,6 +13,8 @@ Python: Used for data processing, model training, and generation.
 pretty_midi: A Python library for handling MIDI data, converting between MIDI files and note sequences.
 
 
+link to the google colab notebook: https://colab.research.google.com/drive/1HjgeurXqvGqx7s6_bX2V6ad_xEBk5SfN?usp=sharing
+
 Dependencies
 Python 3.7+
 pretty_midi
